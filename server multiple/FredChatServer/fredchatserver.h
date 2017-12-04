@@ -1,0 +1,6 @@
+#ifndef _FREDCHATSERVER_H
+#define _FREDCHATSERVER_H
+
+
+
+#endif // _FREDCHATSERVER_H
